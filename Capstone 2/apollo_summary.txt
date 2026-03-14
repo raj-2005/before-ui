@@ -1,0 +1,3 @@
+SELECT * FROM database WHERE project_name = "Apollo"; 
+
+echo "The Apollo project was a NASA mission that successfully landed humans on the Moon." > apollo_summary.txt

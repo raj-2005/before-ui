@@ -1,0 +1,3 @@
+INSERT INTO projects (name, category, details) VALUES ('Apollo', 'Space', 'Launch scheduled for 2026'); 
+
+echo "Project 'Apollo' registered with category 'Space' and details 'Launch scheduled for 2026'" > apollo_log.txt
